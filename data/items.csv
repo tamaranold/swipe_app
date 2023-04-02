@@ -1,5 +1,5 @@
-question_title,question_body,question_image,answer_left,answer_right,correct_side
-Question 1,Do you like long walks on the beach?,,"Yes, definitely","No, never ",left
-Question 2,What is the best ice cream flavor?,,Chocolate,Pistaccio,right
-Question 3,R is the best programming language?,R-image.jpeg,Definitely,Totaly right,left
-Question 4,"What happens with ,?",,Everything is still working,Totaly fucked up,left
+app_title,question_title,question_body,question_image,answer_left,answer_right,correct_side
+Survey 1,Question 1,Do you like long walks on the beach?,,"Yes, definitely","No, never ",left
+,Question 2,What is the best ice cream flavor?,,Chocolate,Pistaccio,right
+,Question 3,R is the best programming language?,R-image.jpeg,Definitely,Totaly right,left
+,Question 4,"What happens with ,?",,Everything is still working,Totaly fucked up,left
